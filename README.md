@@ -13,16 +13,16 @@
 
 *Principles of Computer Operating Systems*
 
-| Topic                   | Lec  | Reading                                           | Note                                  |
-| ----------------------- | ---- | ------------------------------------------------- | ------------------------------------- |
-| Architectural Support   | √    | OSTEP CH. 6                                       | [Note](01 - UCSD CSE120/Note/note.md) |
-| Processes               | ×    | OSTEP CH. 3<br />OSTEP CH. 4 <br />OSTEP CH. 5    |                                       |
-| Threads                 | ×    |                                                   |                                       |
-| Synchronization         | ×    |                                                   |                                       |
-| Semaphores and Monitors | ×    |                                                   |                                       |
-| Scheduling and Deadlock | ×    | OSTEP CH. 7 √<br />OSTEP CH. 8 <br />OSTEP CH. 32 |                                       |
-|                         |      |                                                   |                                       |
-|                         |      |                                                   |                                       |
+| Topic                   | Lec  | Reading                                           | Note                                |
+| ----------------------- | ---- | ------------------------------------------------- | ----------------------------------- |
+| Architectural Support   | √    | OSTEP CH. 6                                       | [Note](01-UCSD-CSE120/Note/note.md) |
+| Processes               | ×    | OSTEP CH. 3<br />OSTEP CH. 4 <br />OSTEP CH. 5    |                                     |
+| Threads                 | ×    |                                                   |                                     |
+| Synchronization         | ×    |                                                   |                                     |
+| Semaphores and Monitors | ×    |                                                   |                                     |
+| Scheduling and Deadlock | ×    | OSTEP CH. 7 √<br />OSTEP CH. 8 <br />OSTEP CH. 32 |                                     |
+|                         |      |                                                   |                                     |
+|                         |      |                                                   |                                     |
 
 **MIT 6.S081 (20fa version; 23fa)**
 
